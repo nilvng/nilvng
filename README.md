@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+ My name is Ngan Nguyen - a Vietnamese live in Melbourne Australia
+ 
+ People often call me Nilln - Chill with an N 😜
 <!--
 **nilvng/nilvng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
