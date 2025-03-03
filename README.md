@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on: @github/cli/cli
+- 🔭 I’m currently working at Blinq 
 - 🌱 I’m currently surviving through: Leetcode daily challenge
 - 👯 I’m looking to collaborate on: Mobile apps - play to my strength 🦾
 
