@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Mobile apps - play to my strength 🦾
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: the only habit I can stick with is coding
+- ⚡ Fun fact: my reading goals is on track this year!
 
-To get to know more about my view of life, check out my Human User Guide (HUG)
+To get to know more about my view of life, check out my Human User Guide [HUG](https://gist.github.com/nilvng/2d3953cc796e8ef327169504271f807b) - inspired by [BagToad](https://github.com/BagToad) 🫶
+
+
